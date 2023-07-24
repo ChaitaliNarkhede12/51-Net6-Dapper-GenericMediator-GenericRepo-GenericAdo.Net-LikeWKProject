@@ -1,0 +1,15 @@
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\bin\Debug\net6.0\TCCS.Domain.deps.json
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\bin\Debug\net6.0\TCCS.Domain.dll
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\bin\Debug\net6.0\TCCS.Domain.pdb
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\bin\Debug\net6.0\TCCS.Data.dll
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\bin\Debug\net6.0\TCCS.Data.pdb
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\obj\Debug\net6.0\TCCS.Domain.csproj.AssemblyReference.cache
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\obj\Debug\net6.0\TCCS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\obj\Debug\net6.0\TCCS.Domain.AssemblyInfoInputs.cache
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\obj\Debug\net6.0\TCCS.Domain.AssemblyInfo.cs
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\obj\Debug\net6.0\TCCS.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\obj\Debug\net6.0\TCCS.Domain.csproj.CopyComplete
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\obj\Debug\net6.0\TCCS.Domain.dll
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\obj\Debug\net6.0\refint\TCCS.Domain.dll
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\obj\Debug\net6.0\TCCS.Domain.pdb
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Domain\obj\Debug\net6.0\ref\TCCS.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LqFl/8aHV8mbAeo+OwWBrcuDabmXqjkpzCmkcbJqO+c=",
+  "Source": "TCCS.WebAPI",
+  "BasePath": "_content/TCCS.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

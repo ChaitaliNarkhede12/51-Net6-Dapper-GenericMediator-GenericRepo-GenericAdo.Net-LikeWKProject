@@ -1,0 +1,17 @@
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\obj\Debug\net6.0\TCCS.Commands.csproj.AssemblyReference.cache
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\obj\Debug\net6.0\TCCS.Commands.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\obj\Debug\net6.0\TCCS.Commands.AssemblyInfoInputs.cache
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\obj\Debug\net6.0\TCCS.Commands.AssemblyInfo.cs
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\obj\Debug\net6.0\TCCS.Commands.csproj.CoreCompileInputs.cache
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\bin\Debug\net6.0\TCCS.Commands.deps.json
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\bin\Debug\net6.0\TCCS.Commands.dll
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\bin\Debug\net6.0\TCCS.Commands.pdb
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\bin\Debug\net6.0\TCCS.Data.dll
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\bin\Debug\net6.0\TCCS.Domain.dll
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\bin\Debug\net6.0\TCCS.Domain.pdb
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\bin\Debug\net6.0\TCCS.Data.pdb
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\obj\Debug\net6.0\TCCS.Commands.csproj.CopyComplete
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\obj\Debug\net6.0\TCCS.Commands.dll
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\obj\Debug\net6.0\refint\TCCS.Commands.dll
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\obj\Debug\net6.0\TCCS.Commands.pdb
+F:\Projects\.NET Core\.Net-6-GenericMediateR-GenricRepo-GenericAdo.NET\Net6WithGenericMediatorRepoAdo.Net\TCCS.Commands\obj\Debug\net6.0\ref\TCCS.Commands.dll
